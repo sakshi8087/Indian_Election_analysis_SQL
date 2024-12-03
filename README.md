@@ -1,4 +1,4 @@
-#Indian Election 2024 Analysis using SQL 🚀🇮🇳
+# Indian Election 2024 Analysis using SQL 🚀🇮🇳
 
 Welcome to the **Indian Election 2024 Analysis project!** In this interactive project, we will explore key aspects of the 2024 Indian Elections using SQL queries. Get ready to uncover insights from election data and dive into some fascinating analysis! 🗳️✨
 
